@@ -1,0 +1,6 @@
+@poncedeleonJMC_2_4MVC_HostAddress = http://localhost:5194
+
+GET {{poncedeleonJMC_2_4MVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

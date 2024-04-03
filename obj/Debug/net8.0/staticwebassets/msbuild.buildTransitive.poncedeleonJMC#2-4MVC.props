@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\poncedeleonJMC#2-4MVC.props" />
+</Project>
