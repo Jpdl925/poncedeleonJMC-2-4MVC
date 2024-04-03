@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("poncedeleonJMC#2-4MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b939d2963bcd75cbba2cdcc93d5b965766d7aa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("poncedeleonJMC#2-4MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("poncedeleonJMC#2-4MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

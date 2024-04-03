@@ -8,9 +8,9 @@ namespace poncedeleonJMC_2_4MVC.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class compareController : ControllerBase
+    public class multiEndPointController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("/compare")]
         public string compare(int a = 1, int b = 2)
         {
             if (a > b)
@@ -25,6 +25,18 @@ namespace poncedeleonJMC_2_4MVC.Controllers
             {
                 return $"First number {a} and second number {b} are EQUAL";
             }
+        }
+
+        [HttpGet("/wakeUp")]
+        public string wakeUp(string name = "Nobody", string time = "some time", string amPm = "Pm")
+        {
+            return $"Hello {name}, you woke up at {time}{amPm}. Congrats!";
+        }
+
+        [HttpGet("/doMath")]
+        public string doMath(int a = 1, int b = 2)
+        {
+            return $"{a} + {b} = {a + b}";
         }
     }
 }

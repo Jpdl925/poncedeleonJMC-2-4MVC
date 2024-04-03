@@ -31,3 +31,4 @@ C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#2-4MVC\obj\Debug\net8.0\r
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#2-4MVC\obj\Debug\net8.0\poncedeleonJMC#2-4MVC.pdb
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#2-4MVC\obj\Debug\net8.0\poncedeleonJMC#2-4MVC.genruntimeconfig.cache
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#2-4MVC\obj\Debug\net8.0\ref\poncedeleonJMC#2-4MVC.dll
+C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#2-4MVC\obj\Debug\net8.0\poncedeleonJMC#2-4MVC.sourcelink.json
