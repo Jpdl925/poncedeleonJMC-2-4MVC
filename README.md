@@ -2,7 +2,7 @@
 
 // Date Revised: 4/2/24
 
-// Mini Challenge 2-4 Endpoints
+// Mini Challenge 2-4 Endpoints MVC
 
 // Design an API with 3 endpoints:
 
